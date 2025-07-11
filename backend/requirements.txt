@@ -1,4 +1,5 @@
 fastapi
 uvicorn
 ultralytics
-pillow 
+pillow
+python-multipart
